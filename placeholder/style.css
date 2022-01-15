@@ -1,0 +1,51 @@
+.container-flex{
+    background-color: #0EB4C1;
+}
+.box{
+    padding: 140px 0px 0px 0px;
+}
+.textone{
+    color: white;
+}
+p{
+    color: white;
+}
+.xizmatlar{
+    color: black;
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+.text{
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: white;
+}
+.qabul{
+    margin-top: 30px;
+}
+.xizmat-box{
+    text-align: center;
+}
+.col-6{
+    text-align: center;
+}
+.textone{
+    color: black;
+}
+.row{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.text2{
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 25px;
+}
+.boxpadding{
+    padding-bottom: 0;
+}
+.navbarview{
+    border-bottom: 40px;
+}
